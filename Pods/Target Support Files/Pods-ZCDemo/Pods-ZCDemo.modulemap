@@ -1,0 +1,6 @@
+module Pods_ZCDemo {
+  umbrella header "Pods-ZCDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
